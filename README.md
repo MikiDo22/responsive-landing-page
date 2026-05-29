@@ -1,1 +1,1 @@
-# my-project
+# responsive-landing-page
